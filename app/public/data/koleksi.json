@@ -1,10 +1,81 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "The Fall",
+    "kategori": "Fantasy",
+    "Sutradara": "Tarsem Singh",
+    "Tahun Rilis": 2006,
+    "Rating (1-10)": 6
+  },
+  {
+    "id": "2",
+    "judul": "Marry and Max",
+    "kategori": "Animation",
+    "Sutradara": "Adam Elliot",
+    "Tahun Rilis": 2009,
+    "Rating (1-10)": 8
+  },
+  {
+    "id": "3",
+    "judul": "A Scanner Darkly",
+    "kategori": "Sci-Fi",
+    "Sutradara": "Richard Linklater",
+    "Tahun Rilis": 2006,
+    "Rating (1-10)": 10
+  },
+  {
+    "id": "4",
+    "judul": "The Station Agent",
+    "kategori": "Drama",
+    "Sutradara": "Tom McCarthy",
+    "Tahun Rilis": 2003,
+    "Rating (1-10)": 6
+  },
+  {
+    "id": "5",
+    "judul": "The Secret of Kells",
+    "kategori": "Adventure",
+    "Sutradara": "Tomm Moore",
+    "Tahun Rilis": 2009,
+    "Rating (1-10)": 9
+  },
+  {
+    "id": "6",
+    "judul": "Brick",
+    "kategori": "Mystery",
+    "Sutradara": "Rian Johnson",
+    "Tahun Rilis": 2005,
+    "Rating (1-10)": 2
+  },
+  {
+    "id": "7",
+    "judul": "Pushing Daisies",
+    "kategori": "Comedy",
+    "Sutradara": "Barry Sonnenfeld",
+    "Tahun Rilis": 2007,
+    "Rating (1-10)": 6
+  }, {
+    "id": "8",
+    "judul": "Wonderfalls",
+    "kategori": "Romance",
+    "Sutradara": "Todd Holland",
+    "Tahun Rilis": 2004,
+    "Rating (1-10)": 4
+  },
+  {
+    "id": "9",
+    "judul": "Dead Like Me",
+    "kategori": "Supernatural",
+    "Sutradara": "Stephen Herek",
+    "Tahun Rilis": 2003,
+    "Rating (1-10)": 7
+  },
+  {
+    "id": "10",
+    "judul": "Carnivale",
+    "kategori": "Horror",
+    "Sutradara": "Radrigo Garcia",
+    "Tahun Rilis": 2003,
+    "Rating (1-10)": 5
   }
 ]
