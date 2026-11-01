@@ -14,6 +14,7 @@ Deployment: https://Oliviavy99.github.io/uts-paw/
 - Menampilkan daftar film
 - Dapat menambahkan film atau serial
 - Terdapat informasi film atau serial
+- Terdaoat fitur searching buat mencari film atau serial
 
 ## Menjalankan secara lokal
 
@@ -23,5 +24,5 @@ npm run dev
 
 ## Konsep React yang dipakai
 
-- ...
+- 
 ```
