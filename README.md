@@ -11,8 +11,9 @@ Deployment: https://Oliviavy99.github.io/uts-paw/
 ![Tangkapan layar beranda](docs/beranda.png)
 
 ## Fitur
-
-- ...
+- Menampilkan daftar film
+- Dapat menambahkan film atau serial
+- Terdapat informasi film atau serial
 
 ## Menjalankan secara lokal
 
